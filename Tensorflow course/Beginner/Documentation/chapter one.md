@@ -30,6 +30,33 @@ __Neural Networks__: A form of Machine Learning that uses a layered representati
 
     NN is a subset of Machine Learning.
 
+#### Installing Tensorflow:
+
+### Topics covored:
+
+    Image Classification
+    Reinforment Learning
+    Data clustering 
+    Natural Language processing.
+
+### Intalling tensorflow
+
+    Pip install tensorflow
+
+### Intaling GPU
+
+    pip install tensorflow-gpu
+
+[Learn about Tensorflow GPU](https://www.tensorflow.org/install/gpu)
+
+__Restart runtime__ Helps you restart your defined cells
+
+__restart and run all__: helps you run all your code blocks in the cells in sequential order
+
+
+### importing Tensorflow:
+
+Make sure you are selecting the right version of your tensorflow before executing it.
 
 
 
